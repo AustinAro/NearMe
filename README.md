@@ -27,7 +27,7 @@ Execute the programs and publish them.
 ## CODE
 '''
 # 1.city:
-<'html'>
+<html>
     <head>
         My City
     </head>
@@ -39,7 +39,7 @@ Execute the programs and publish them.
             <font color="blue"><b>Austin Aro (24900653)</b></font>
         </h3>
         <center>
-            <img src="img.png" usemap="#MyCity" height="610" width="1450">
+            <'img src="img.png" usemap="#MyCity" height="610" width="1450">
             <map name="MyCity">
                 <area shape="rect" coords="748,207,887,241" title="My Home town" href="home.html">
                 <area shape="poly" coords="772,86,844,48,348,158,430,163" title="River" href="river.html">
@@ -49,7 +49,7 @@ Execute the programs and publish them.
             </map>
         </center>
     </body>
-<'/html'>
+</html>
 
 # 2.Home:
 <html>
