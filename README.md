@@ -39,7 +39,7 @@ Execute the programs and publish them.
             <font color="blue"><b>Austin Aro (24900653)</b></font>
         </h3>
         <center>
-            <'img src="img.png" usemap="#MyCity" height="610" width="1450">
+            <img src="img.png" usemap="#MyCity" height="610" width="1450">
             <map name="MyCity">
                 <area shape="rect" coords="748,207,887,241" title="My Home town" href="home.html">
                 <area shape="poly" coords="772,86,844,48,348,158,430,163" title="River" href="river.html">
@@ -69,7 +69,6 @@ Execute the programs and publish them.
           In 1866, Kumbakonam was officially constituted as a municipality, which today comprises 48 wards,
           making it the second largest local civil body in Thanjavur district.
           It became a municipal corporation on 24 August 2021.
-
     </body>
 </html>
 
