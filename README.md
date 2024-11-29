@@ -27,7 +27,7 @@ Execute the programs and publish them.
 ## CODE
 '''
 # 1.city:
-<html>
+(<html>
     <head>
         My City
     </head>
@@ -52,6 +52,7 @@ Execute the programs and publish them.
 </html>
 
 # 2.Home:
+'''
 <html>
     <body style="background-color: antiquewhite;">
         <b>Kumbakonam</b> (formerly spelt as Coombaconum or Combaconum),[1] or 
@@ -71,7 +72,8 @@ Execute the programs and publish them.
           It became a municipal corporation on 24 August 2021.
 
     </body>
-</html>
+</html>'''
+
 
 # 3.River:
 <html>
