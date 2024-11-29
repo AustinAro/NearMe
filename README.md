@@ -52,15 +52,14 @@ Execute the programs and publish them.
 </html>
 
 # 2.Home:
-'''
-<html>
+<'html'>
     <body style="background-color: antiquewhite;">
         <b>Kumbakonam</b> (formerly spelt as Coombaconum or Combaconum),[1] or 
         <b>Kudanthai</b>, is a city municipal corporation in the Thanjavur district in the Indian state of Tamil Nadu.
          It is located 40 km (25 mi) from Thanjavur and 282 km (175 mi) from Chennai and is the headquarters of the Kumbakonam taluk of Thanjavur district.
          It is the second largest city in the district after Thanjavur. The city is bounded by two rivers, the Kaveri River to the north and Arasalar River to the south.
          Kumbakonam is known as a "Temple town" due to the prevalence of a number of temples here and is noted for its Mahamaham festival, which happens once in 12 years, attracting people from all over the country.
-<br><br>
+    <br><br>
         Kumbakonam dates back to the Sangam period and was ruled by the Early Cholas,
          Pallavas, Mutharaiyar dynasty, Medieval Cholas, Later Cholas, Pandyas, the Vijayanagara Empire,
           Madurai Nayaks, Thanjavur Nayaks and the Thanjavur Marathas.
@@ -72,7 +71,7 @@ Execute the programs and publish them.
           It became a municipal corporation on 24 August 2021.
 
     </body>
-</html>'''
+<'/html'>
 
 
 # 3.River:
