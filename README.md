@@ -27,7 +27,7 @@ Execute the programs and publish them.
 ## CODE
 '''
 # 1.city:
-(<html>
+<'html'>
     <head>
         My City
     </head>
@@ -49,10 +49,10 @@ Execute the programs and publish them.
             </map>
         </center>
     </body>
-</html>
+<'/html'>
 
 # 2.Home:
-<'html'>
+<html>
     <body style="background-color: antiquewhite;">
         <b>Kumbakonam</b> (formerly spelt as Coombaconum or Combaconum),[1] or 
         <b>Kudanthai</b>, is a city municipal corporation in the Thanjavur district in the Indian state of Tamil Nadu.
@@ -71,7 +71,7 @@ Execute the programs and publish them.
           It became a municipal corporation on 24 August 2021.
 
     </body>
-<'/html'>
+</html>
 
 
 # 3.River:
