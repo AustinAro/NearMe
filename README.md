@@ -39,7 +39,7 @@ Execute the programs and publish them.
             <font color="blue"><b>Austin Aro (24900653)</b></font>
         </h3>
         <center>
-            <img src="img.png" usemap="#MyCity" height="610" width="1450">
+            <img src="pj1/app1/static/img.png" usemap="#MyCity" height="610" width="1450">
             <map name="MyCity">
                 <area shape="rect" coords="748,207,887,241" title="My Home town" href="home.html">
                 <area shape="poly" coords="772,86,844,48,348,158,430,163" title="River" href="river.html">
@@ -143,17 +143,17 @@ The temple continues to attract large gatherings of Hindu pilgrims every year du
 
 ## OUTPUT
 
-1.![alt text](<Screenshot 2024-11-29 214843.png>)
+1.![alt text](<Screenshot 2024-11-30 111751.png>)
 
-2.![alt text](<Screenshot 2024-11-29 214903.png>)
+2.![alt text](<Screenshot 2024-11-30 111803.png>)
 
-3.![alt text](<Screenshot 2024-11-29 215153.png>)
+3.![alt text](<Screenshot 2024-11-30 111815.png>)
 
-4.![alt text](<Screenshot 2024-11-29 215208.png>)
+4.![alt text](<Screenshot 2024-11-30 111831.png>)
 
-5.![alt text](<Screenshot 2024-11-29 215227.png>)
+5.![alt text](<Screenshot 2024-11-30 111854.png>)
 
-6.![alt text](<Screenshot 2024-11-29 215305.png>)
+6.![alt text](<Screenshot 2024-11-30 111912.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
